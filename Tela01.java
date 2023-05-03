@@ -1,5 +1,5 @@
 public class Tela01 {
     public static void main(String[] args) {
-	    System.out.println("teste 3");
+	    System.out.println("teste - 2 - 3");
     }
 }
